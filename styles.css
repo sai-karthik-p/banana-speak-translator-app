@@ -27,6 +27,8 @@ body {
     border: solid 2px var(--brown);
     font-family: 'Ubuntu', sans-serif;
     font-size: medium;
+    border-top-right-radius: 0.5rem;
+    border-bottom-left-radius: 0.5rem;
 }
 
 #btn-div {
@@ -62,6 +64,8 @@ body {
     margin-bottom: 1.5rem;
     padding: 1rem;
     background-color: var(--light-yellow);
+    border-top-left-radius: 0.5rem;
+    border-bottom-right-radius: 0.5rem;
 }
 
 
