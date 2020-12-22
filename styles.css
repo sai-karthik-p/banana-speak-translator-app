@@ -133,12 +133,10 @@ body {
 
 .hero {
     padding: 2rem;
-    padding-top: 3rem;
 }
 
 .hero .hero-img {
-    max-width: 320px;
-    max-height: fit-content;
+    max-width: 290px;
     display: block;
     margin: auto;
 }
